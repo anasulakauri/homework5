@@ -92,6 +92,7 @@
     margin-top: 6px;
     margin-bottom: 25px;
     font-family: 'Roboto-Black';
+    line-height: 58.59px;
 }
 
 .wraper-descr2 {
@@ -99,6 +100,7 @@
     color: #525C60;
     margin-bottom: 35px;
     font-family: 'Open Sans-Regular';
+    line-height: 29.77px;
 }
 
 .wraper-descr3 {
@@ -107,6 +109,7 @@
     margin-left: 60px;
     width: 444px;
     font-family: 'Open Sans-Regular';
+    line-height: 29.77px;
 }
 
 .grey-block {
@@ -166,6 +169,7 @@
     margin-right: 37px;
     font-family: 'Open Sans-Regular';
     text-align: center;
+    line-height: 29.77px;
 }
 
 .active-box {
